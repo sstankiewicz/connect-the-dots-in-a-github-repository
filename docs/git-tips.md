@@ -1,4 +1,4 @@
-# Git Tips
+# Git Tricks
 
 Here are some good tips and trics:
 
